@@ -9,3 +9,13 @@ InsightFlow is a web-based platform that transforms qualitative customer feedbac
 Our mission is to empower businesses with a simple, scalable solution to analyze customer feedback. By converting qualitative responses into measurable insights, InsightFlow supports smarter decision-making in customer engagement, product development, and sales strategy.
 
 ----
+
+## *Product Features*
+
+- *AI-Powered Text Analysis*: Automated extraction of sentiment, keywords, and themes from open-ended responses.
+- *Quantified Insights*: Transforms qualitative feedback into KPIs and dashboards for structured decision-making.
+- *Visual Analytics*: Sentiment trends, word clouds, category clustering, and theme tracking in an intuitive UI.
+- *Custom Input Options*: Upload CSVs, connect survey APIs, or manually input responses.
+- *Privacy-Compliant*: Adheres to GDPR and CCPA standards for ethical data handling.
+
+---
