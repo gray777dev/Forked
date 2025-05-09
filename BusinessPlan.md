@@ -19,3 +19,4 @@ Our mission is to empower businesses with a simple, scalable solution to analyze
 - *Privacy-Compliant*: Adheres to GDPR and CCPA standards for ethical data handling.
 
 ---
+
